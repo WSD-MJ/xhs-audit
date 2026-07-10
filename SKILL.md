@@ -1,5 +1,5 @@
 ---
-name: red-note-audit
+name: xhs-audit
 description: >
   AI-powered Xiaohongshu (RED) note compliance auditor. Reviews note content
   for policy compliance, shadowban risk, and provides optimization suggestions.
